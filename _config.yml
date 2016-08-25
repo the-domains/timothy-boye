@@ -28,6 +28,9 @@ navigation:
   - name: LinkedIn
     url: 'https://au.linkedin.com/in/timothyboye'
     type: external
+  - name: Contact
+    id: 168c20b7-3bab-420c-a69d-609869eb0f75
+    type: content
 favicon: null
 collections:
   - index:
