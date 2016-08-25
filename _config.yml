@@ -1,4 +1,3 @@
-layout_spectrum: 0.4015511793550104
 typography_spectrum: 0.17544541391544044
 color:
   brandColors:
@@ -11,9 +10,25 @@ color:
   lightness: 0.4375
   saturation: 0.6576359269674867
   rhythmicContrast: 0.17714951024390757
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4015511793550104
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 name: Timothy Boye
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: LinkedIn
+    url: 'https://au.linkedin.com/in/timothyboye'
+    type: external
 favicon: null
-title: Timothy Boye
 collections:
   - index:
       path: /
@@ -26,17 +41,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Timothy Boye
 description: Technologist and life enthusiast
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 purpose: []
