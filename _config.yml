@@ -1,20 +1,4 @@
-name: Timothy Boye
-favicon: null
-layout_spectrum: 0.13353103818371892
 typography_spectrum: 0.2573356390930712
-title: Timothy Boye
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -26,4 +10,21 @@ color:
   lightness: 0.8155256235040724
   saturation: 0.05383202410303056
   rhythmicContrast: 0.6391270500607789
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.13353103818371892
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Timothy Boye
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Timothy Boye
+description: Technologist and life enthusiast
 purpose: []
