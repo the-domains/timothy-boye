@@ -1,7 +1,7 @@
 name: Timothy Boye
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.20605634711682796
+typography_spectrum: 0.47217
 title: Timothy Boye
 collections:
   - index:
@@ -36,7 +36,7 @@ color:
     - '#3498DB'
     - '#2980B9'
   brandStrength: 0.18441688898019493
-  lightness: 0.8331527502741665
+  lightness: 0.4375
   saturation: 0.6576359269674867
   rhythmicContrast: 0.17714951024390757
 purpose: []
