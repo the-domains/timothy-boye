@@ -1,15 +1,14 @@
 ---
-datePublished: '2016-08-25T10:10:57.819Z'
+datePublished: '2016-08-25T13:03:23.579Z'
 sourcePath: >-
   _posts/2016-08-25-this-photo-was-taken-at-the-afa-sydney-conference-in-2013-du.md
 inFeed: true
 authors: []
 hasPage: false
 keywords: []
-author:
-  - name: Josie Eldred Downes
+author: []
 via: {}
-dateModified: '2016-08-25T10:00:30.178Z'
+dateModified: '2016-08-25T13:03:22.364Z'
 title: Speaker
 publisher: {}
 description: >-
