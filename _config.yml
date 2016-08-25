@@ -1,3 +1,16 @@
+layout_spectrum: 0.6346153491176665
+typography_spectrum: 0.2764547523111105
+color:
+  saturation: 0.3255319
+  brandStrength: 0.4595807283185422
+  lightness: 0.4552952
+  brandColors:
+    - '#343434'
+    - '#D9D9D9'
+    - '#FBFBFB'
+    - '#ADADAD'
+    - '#7E7E7E'
+  rhythmicContrast: 0.9538234
 title: Timothy Boye
 purpose: []
 collections:
@@ -13,17 +26,6 @@ collections:
       format: rss
       number: 10
 description: Technologist and life enthusiast
-color:
-  saturation: 0.3255319
-  brandStrength: 0.4595807283185422
-  lightness: 0.4552952
-  brandColors:
-    - '#343434'
-    - '#D9D9D9'
-    - '#FBFBFB'
-    - '#ADADAD'
-    - '#7E7E7E'
-  rhythmicContrast: 0.9538234
 analytics:
   twitter: null
   google: null
@@ -38,5 +40,3 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.5278714373707771
-layout_spectrum: 1
