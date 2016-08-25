@@ -1,10 +1,15 @@
 ---
-datePublished: '2016-08-25T04:50:31.951Z'
+datePublished: '2016-08-25T04:58:00.383Z'
+sourcePath: >-
+  _posts/2016-08-25-this-photo-was-taken-at-the-afa-sydney-conference-in-2013-du.md
 inFeed: true
+authors: []
+hasPage: false
+keywords: []
 author:
   - name: Josie Eldred Downes
 via: {}
-dateModified: '2016-08-25T04:50:25.377Z'
+dateModified: '2016-08-25T04:57:59.761Z'
 title: ''
 publisher: {}
 description: >-
@@ -12,9 +17,9 @@ description: >-
   panel on which I spoke about my experience working at Macquarie University for
   the LEAP Robotics high school program. Also pictured is singer and model
   Lauren Dawes.
+inLanguage: null
+inNav: false
 starred: false
-sourcePath: >-
-  _posts/2016-08-25-this-photo-was-taken-at-the-afa-sydney-conference-in-2013-du.md
 _context: 'http://schema.org'
 _type: Article
 
