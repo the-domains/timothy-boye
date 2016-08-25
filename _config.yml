@@ -1,7 +1,18 @@
+layout_spectrum: 0.6657670373097062
+typography_spectrum: 0.7099866282660514
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.18441688898019493
+  lightness: 0.4375
+  saturation: 0.6576359269674867
+  rhythmicContrast: 0.17714951024390757
 name: Timothy Boye
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.47217
 title: Timothy Boye
 collections:
   - index:
@@ -28,15 +39,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  brandStrength: 0.18441688898019493
-  lightness: 0.4375
-  saturation: 0.6576359269674867
-  rhythmicContrast: 0.17714951024390757
 purpose: []
