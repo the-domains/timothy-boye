@@ -28,6 +28,9 @@ navigation:
   - name: LinkedIn
     url: 'https://au.linkedin.com/in/timothyboye'
     type: external
+  - name: Email
+    url: 'mailto:contact@timothyboye.com'
+    type: external
 favicon: null
 collections:
   - index:
