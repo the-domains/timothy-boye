@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-08-25T04:55:50.457Z'
+datePublished: '2016-08-25T05:15:44.881Z'
+sourcePath: >-
+  _posts/2016-08-25-deadlines-loom-but-in-life-one-must-always-make-time-for-cak.md
 author: []
 via: {}
-dateModified: '2016-08-25T04:55:43.402Z'
+dateModified: '2016-08-25T05:15:43.994Z'
 title: ''
 publisher: {}
 description: >-
   Deadlines loom but in life one must always make time for cake, it's a matter
   of time management.
 starred: false
-sourcePath: >-
-  _posts/2016-08-25-deadlines-loom-but-in-life-one-must-always-make-time-for-cak.md
 inFeed: true
 hasPage: true
 inNav: false
