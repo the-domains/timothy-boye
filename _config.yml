@@ -1,16 +1,16 @@
-layout_spectrum: 0.6346153491176665
-typography_spectrum: 0.2764547523111105
+layout_spectrum: 0.06683417083695531
+typography_spectrum: 0.20605634711682796
 color:
-  saturation: 0.3255319
-  brandStrength: 0.4595807283185422
-  lightness: 0.4552952
+  saturation: 0.6576359269674867
+  brandStrength: 0.18441688898019493
+  lightness: 0.8331527502741665
   brandColors:
-    - '#343434'
-    - '#D9D9D9'
-    - '#FBFBFB'
-    - '#ADADAD'
-    - '#7E7E7E'
-  rhythmicContrast: 0.9538234
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  rhythmicContrast: 0.17714951024390757
 title: Timothy Boye
 purpose: []
 collections:
