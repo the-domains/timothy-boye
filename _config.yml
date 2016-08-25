@@ -1,7 +1,18 @@
+layout_spectrum: 0.42734856624156237
+typography_spectrum: 0.12007846869528294
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.18441688898019493
+  lightness: 0.4375
+  saturation: 0.6576359269674867
+  rhythmicContrast: 0.17714951024390757
 name: Timothy Boye
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.57654
 navigation:
   - name: LinkedIn
     url: 'https://au.linkedin.com/in/timothyboye'
@@ -35,15 +46,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  brandStrength: 0.18441688898019493
-  lightness: 0.4375
-  saturation: 0.6576359269674867
-  rhythmicContrast: 0.17714951024390757
 purpose: []
