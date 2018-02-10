@@ -1,4 +1,4 @@
-typography_spectrum: 0.6421219729818404
+typography_spectrum: 0.3653246567118913
 color:
   brandColors:
     - '#2C3E50'
@@ -14,11 +14,15 @@ opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.24527777265757322
+layout_spectrum: 0.3901507460977882
 analytics:
   google: UA-83130120-1
   facebook: null
   twitter: null
+author:
+  name: Timothy Boye
+  email: contact@timothyboye.com
+  url: 'http://timothyboye.com'
 name: Timothy Boye
 cta:
   domain: null
@@ -27,6 +31,9 @@ cta:
 navigation:
   - name: LinkedIn
     url: 'https://au.linkedin.com/in/timothyboye'
+    type: external
+  - name: Facebook
+    url: 'https://facebook.com/timothyboyesoftware'
     type: external
   - name: Contact
     id: 168c20b7-3bab-420c-a69d-609869eb0f75
@@ -45,5 +52,13 @@ collections:
       format: rss
       number: 10
 title: Timothy Boye
+content: []
 description: Technologist and life enthusiast
-purpose: []
+purpose:
+  - type: external
+    url: 'http://boye.co/emojr'
+    label: 'Download Emojr, the emoji iOS10 sticker app.'
+  - type: external
+    url: 'http://boye.co/apps'
+    label: Check out my other apps on the Apple App Store.
+github: true
