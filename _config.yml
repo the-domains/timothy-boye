@@ -54,8 +54,5 @@ collections:
 title: Timothy Boye
 content: []
 description: Technologist and life enthusiast
-purpose:
-  - type: external
-    url: 'http://boye.co/apps'
-    label: Check out my other apps on the Apple App Store.
+purpose: []
 github: true
