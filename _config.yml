@@ -56,9 +56,6 @@ content: []
 description: Technologist and life enthusiast
 purpose:
   - type: external
-    url: 'http://boye.co/emojr'
-    label: 'Download Emojr, the emoji iOS10 sticker app.'
-  - type: external
     url: 'http://boye.co/apps'
     label: Check out my other apps on the Apple App Store.
 github: true
