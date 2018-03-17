@@ -10,6 +10,7 @@ color:
   lightness: 0.4375
   saturation: 0.6576359269674867
   rhythmicContrast: 0.17714951024390757
+github: true
 opengraph:
   image: null
   type: null
@@ -38,6 +39,9 @@ navigation:
   - name: Contact
     id: 168c20b7-3bab-420c-a69d-609869eb0f75
     type: content
+  - name: Github
+    url: 'https://github.com/timothyBoye'
+    type: external
 favicon: null
 collections:
   - index:
@@ -55,4 +59,3 @@ title: Timothy Boye
 content: []
 description: Technologist and life enthusiast
 purpose: []
-github: true
