@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Timothy Boye]]></title>
+        <description><![CDATA[Timothy Boye]]></description>
+        <link>http://timothyboye.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 17 Mar 2018 05:49:53 GMT</lastBuildDate>
+        <atom:link href="http://timothyboye.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sat, 17 Mar 2018 05:49:05 GMT</pubDate>
+        <item>
+            <title><![CDATA[Maker]]></title>
+            <description><![CDATA[<h1>Maker</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b3dfbc8-20d4-4021-9597-5ed5cf666625.jpg">,<p>In my spare time I have been known to try my hand at many hobbies, robotics, coding, electronics, woodworking, graphic design, CAD/modelling for CNC production, baking, cooking, gardening, the list is almost endless. Many of these various pursuits have led me to the maker movement and its philosophy of learning-through-doing or experimentation. This movement inspires thousands of people around the globe to give it a go and build something, anything and it inspires me to step out of my comfort zone and learn. Occasionally I even sell my work at <a href="http://boye.co/" title="Boye &amp; Co.">Boye &amp; Co.</a></p>]]></description>
+            <link>http://timothyboye.com/maker/index.html</link>
+            <guid isPermaLink="false">a2f15a4f-41e8-4f13-96f7-20ba320a8ba7</guid>
+            <pubDate>Thu, 25 Aug 2016 10:10:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Foodie]]></title>
+            <description><![CDATA[<h1>Foodie</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdccd4a1-8fa4-4ea9-ad48-0162ec587ed0.jpg" alt="Deadlines loom but in life one must always make time for cake, it&apos;s a matter of time management. Whether I&apos;m looking at, eating or baking desserts these are the happy times.">]]></description>
+            <link>http://timothyboye.com/foodie/index.html</link>
+            <guid isPermaLink="false">ad89f5e4-d059-4af3-8c76-e02f7b5092e1</guid>
+            <pubDate>Thu, 25 Aug 2016 10:09:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<h1>Contact</h1>,<p>e. contact@timothyboye.com</p>,<p>f. <a href="https://facebook.com/timothyboyesoftware" title="https://facebook.com/timothyboyesoftware">https://facebook.com/timothyboyesoftware</a></p>,<p>l. <a href="https://au.linkedin.com/in/timothyboye" title="https://au.linkedin.com/in/timothyboye">https://au.linkedin.com/in/timothyboye</a></p>,<p>g. <a href="https://github.com/timothyBoye" title="">https://github.com/timothyBoye</a></p>]]></description>
+            <link>http://timothyboye.com/contact/index.html</link>
+            <guid isPermaLink="false">168c20b7-3bab-420c-a69d-609869eb0f75</guid>
+            <pubDate>Tue, 20 Sep 2016 06:37:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
