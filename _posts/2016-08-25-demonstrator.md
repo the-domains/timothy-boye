@@ -6,8 +6,8 @@ description: >-
   strived to instil an interest in STEM (Science, Technology, Engineering and
   Mathematics) as well as inspire related skills such as confidence and
   leadership.
-dateModified: '2019-01-17T23:37:04.755Z'
-datePublished: '2019-01-17T23:37:04.947Z'
+dateModified: '2019-01-17T23:48:25.622Z'
+datePublished: '2019-01-17T23:48:25.897Z'
 title: Academic
 author: []
 publisher: {}
