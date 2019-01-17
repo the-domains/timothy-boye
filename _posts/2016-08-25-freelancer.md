@@ -1,9 +1,9 @@
 ---
-datePublished: '2019-01-17T23:37:04.946Z'
+datePublished: '2019-01-17T23:48:25.899Z'
 sourcePath: _posts/2016-08-25-freelancer.md
 author: []
 via: {}
-dateModified: '2019-01-17T23:37:04.755Z'
+dateModified: '2019-01-17T23:48:25.622Z'
 title: Freelancer
 id: 119a1e03-eb62-449e-b772-51b50e79a96c
 publisher: {}
