@@ -33,9 +33,6 @@ navigation:
   - name: LinkedIn
     url: 'https://au.linkedin.com/in/timothyboye'
     type: external
-  - name: Facebook
-    url: 'https://facebook.com/timothyboyesoftware'
-    type: external
   - name: Github
     url: 'https://github.com/timothyBoye'
     type: external
@@ -74,7 +71,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
